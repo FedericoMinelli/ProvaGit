@@ -16,6 +16,7 @@ public class Attrezzo {
 
 	private String nome;
 	private int peso;
+	private int geso;
 
 	/**
 	 * Crea un attrezzo
